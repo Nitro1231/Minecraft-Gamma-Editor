@@ -117,4 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>This program will change the gamma value from the options file of Minecraft. The original gamma value is 1, and you can change it up to 1000. This program might be not working on some old version of Minecraft.
+You also can check out the open-source code of this program, which is under the MIT license, at my GitHub.
+
+Thank you for using this program! :)</value>
+  </data>
 </root>
